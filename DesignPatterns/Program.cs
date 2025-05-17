@@ -1,5 +1,6 @@
 ﻿
 using DesignPatterns;
+using DesignPatterns.FactoryMethod;
 
 class Program
 {
